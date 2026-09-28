@@ -62,15 +62,15 @@ Disband ships native installers for every platform via **GitHub Releases**:
 - **Windows** — x64 (EXE/MSI)
 - **Linux** — x64 (DEB/AppImage)
 
-Check the [Releases page](https://github.com/polardev-ui/disband-latest/releases) for the latest version.
+Check the [Releases page](https://github.com/tfoethetfoe/disband-arch-debian/releases/latest) for the latest version.
 
 ---
 
 ## Project Links
 
 - **Web App:** [www.disband.dev](https://www.disband.dev)
-- **Source Code:** [github.com/polardev-ui/disband-latest](https://github.com/polardev-ui/disband-latest)
-- **Desktop Releases:** [github.com/polardev-ui/disband-latest/releases](https://github.com/polardev-ui/disband-latest/releases)
+- **Source Code:** [github.com/tfoethetfoe/disband-arch-debian](https://github.com/tfoethetfoe/disband-arch-debian/)
+- **Desktop Releases:** [github.com/tfoethetfoe/disband-arch-debian/releases](https://github.com/tfoethetfoe/disband-arch-debian/releases/latest)
 
 ---
 
